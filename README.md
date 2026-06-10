@@ -1,0 +1,1 @@
+# Classe_Objeto_Encapsulamento_3TDS
